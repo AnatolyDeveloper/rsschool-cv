@@ -21,3 +21,13 @@
 * Core Data
 * Autolayout
 * Animation
+7.  **19/03/2019 – 01/08/2019 – Educational Center of HTP**
+Course: iOS Development
+Description: The program of a course included the following aspects:
+Swift Programming Language, UIKit, MVC pattern, MVVM pattern, DI, SOLID principles and etc. , practical work with technology: core data, animations, build UI programmatically, drawing, multhitreading, network, autolayout, application lifecycle.
+
+* **22/01/2019 – 07/03/2019 – Educational Center of HTP**
+Course: Computer science bases
+Description: Computer science bases theoretical aspects
+
+8. **Intermediate English language level**
